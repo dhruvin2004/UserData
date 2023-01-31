@@ -107,7 +107,7 @@ class _userDataDisplayState extends State<userDataDisplay> {
                                       ),
                                       SizedBox(height: 3),
                                       Text(
-                                        " Age : ${data[index].registered!.age} ${data[index].name!.first} ${data[index].name!.last}",
+                                        " Age : ${data[index].registered!.age}",
                                         style: FontStyle.title,
                                       ),
                                       SizedBox(height: 3),
