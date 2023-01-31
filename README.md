@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - <img
-src="assets/image/1.png"
+src="assets/image/ui.png"
 alt="Alt text"
 title="Optional title"
 style="display: inline-block; margin: 0 auto; max-width: 150px">
